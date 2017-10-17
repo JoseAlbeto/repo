@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Permisos</string>
+    <string name="button">Record Audio</string>
+    <string name="button2">Camera</string>
+
+</resources>
